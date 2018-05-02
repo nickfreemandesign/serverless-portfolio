@@ -1,0 +1,26 @@
+{
+  "name": "lambda-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "babel": {
+    "presets": [
+      "es2015",
+      "stage-0"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babel": "babel dev/index.js --out-file dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^26.0.1",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+
+  }
+}
