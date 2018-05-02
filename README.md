@@ -1,2 +1,2 @@
-# nickfreemandesign
-Design and Software services and portfolio for Nick Freeman Design, LLC
+# Serverless Portfolio
+Get an online portfolio up and running using serverless architecture
