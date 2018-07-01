@@ -32,6 +32,7 @@ export default class App extends React.Component {
 
     `;
 
+    const Banana = '<div>🐙</div>';
 
     const AppContent = styled.div`
 
